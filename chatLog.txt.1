@@ -1,0 +1,14 @@
+Sep 03, 2015 11:59:21 AM echoserver.EchoServer runServer
+INFO: Sever started. Listening on: 9090, bound to: localhost
+Sep 03, 2015 11:59:21 AM echoserver.EchoServer runServer
+SEVERE: null
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.bind(ServerSocket.java:329)
+	at echoserver.EchoServer.runServer(EchoServer.java:67)
+	at echoserver.EchoServer.main(EchoServer.java:82)
+	at TestClient$1.run(TestClient.java:25)
+	at java.lang.Thread.run(Thread.java:745)
+

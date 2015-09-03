@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/simon/study/EchoStudyPointEx2/src/echoclient/EchoClient.java</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/src/shared/ProtocolStrings.java</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/test/TestClient.java</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/server.properties</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/startServer.bat</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/startClient.bat</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/src/echoserver/EchoServer.java</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/chatLog.txt.1</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/src/utils/Utils.java</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/dist/startClient.bat</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/dist/server.properties</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/src/presentation/ClientGUI.java</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/chatLog.txt</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/src/echoserver/ClientHandler.java</file>
+            <file>file:/home/simon/study/EchoStudyPointEx2/dist/startServer.bat</file>
+        </group>
+    </open-files>
+</project-private>
